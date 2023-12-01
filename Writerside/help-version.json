@@ -1,0 +1,4 @@
+[
+  {"version":"1.0","url":"/v1","isCurrent":false},
+  {"version":"2.0","url":"/v2","isCurrent":true}
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+    <build-profile instance="v1">
+        <variables>
+            <versions-switcher>
+                ./help-version.json
+            </versions-switcher>
+        </variables>
+    </build-profile>
+    <build-profile instance="v2">
+        <variables>
+            <versions-switcher>
+                ./help-version.json
+            </versions-switcher>
+        </variables>
+    </build-profile>
+
+
+</buildprofiles>
